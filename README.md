@@ -1,7 +1,6 @@
-# practice_flutter
+# Random Word Generator
 
-A new Flutter project.
-
+Uses dart package of english words to generate random word pairs in a list.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
